@@ -1,0 +1,127 @@
+---
+- name: Icinga 2 Advanced
+  type: training
+  start_date: 2018-02-06
+  duration: 3
+  city: Nuremberg
+  state: Germany
+  partner: Netways GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/en/trainings/icinga_trainings/
+- name: Icinga 2 Fundamentals
+  type: training
+  start_date: 2018-02-15
+  duration: 4
+  city: Zurich
+  state: Switzerland
+  partner: Linuxfabrik
+  partner_link: https://www.linuxfabrik.ch/
+  registration_link: https://www.linuxfabrik.ch/schulungen/icinga
+- name: Icinga 2 Fundamentals
+  type: training
+  start_date: 2018-02-19
+  duration: 4
+  city: Nuremberg
+  state: Germany
+  partner: AZ IT-Systems & Consulting GmbH
+  partner_link: https://www.az-it.systems/de/leistungen/it-monitoring-loesungen.html
+  registration_link: https://az-it.academy/trainings/icinga2-fundamentals-training.html
+- name: Icinga 2 Fundamentals
+  type: training
+  start_date: 2018-03-13
+  duration: 4
+  city: Zurich
+  state: Switzerland
+  partner: Linuxfabrik
+  partner_link: https://www.linuxfabrik.ch/
+  registration_link: https://www.linuxfabrik.ch/schulungen/icinga
+- name: Icinga 2 Fundamentals
+  type: training
+  start_date: 2018-03-13
+  duration: 4
+  city: Nuremberg
+  state: Germany
+  partner: Netways GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/en/trainings/icinga_trainings/
+- name: Icinga 2 Fundamentals
+  type: training
+  start_date: 2018-04-09
+  duration: 4
+  city: Nuremberg
+  state: Germany
+  partner: AZ IT-Systems & Consulting GmbH
+  partner_link: https://www.az-it.systems/de/leistungen/it-monitoring-loesungen.html
+  registration_link: https://az-it.academy/trainings/icinga2-fundamentals-training.html
+- name: Icinga 2 Fundamentals
+  type: training
+  start_date: 2018-04-16
+  duration: 4
+  city: Nuremberg
+  state: Germany
+  partner: AZ IT-Systems & Consulting GmbH
+  partner_link: https://www.az-it.systems/de/leistungen/it-monitoring-loesungen.html
+  registration_link: https://az-it.academy/trainings/icinga2-fundamentals-training.html
+- name: Icinga 2 Fundamentals
+  type: training
+  start_date: 2018-04-24
+  duration: 4
+  city: Atlanta
+  state: Georgia
+  partner: Shadow-Soft
+  partner_link: https://shadow-soft.com/icinga-partner/
+  registration_link: https://shadow-soft.com/event/icinga-training-course/
+- name: Icinga 2 Fundamentals
+  type: training
+  start_date: 2018-05-15
+  duration: 4
+  city: Hannover
+  state: Germany
+  partner: axxeo GmbH
+  partner_link: https://www.axxeo.de/monitoring.html
+  registration_link: https://www.axxeo.de/schulungen/workshop-icinga-2.html
+- name: Icinga 2 Advanced
+  type: training
+  start_date: 2018-06-19
+  duration: 3
+  city: Nuremberg
+  state: Germany
+  partner: Netways GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/en/trainings/icinga_trainings/
+- name: Icinga 2 Fundamentals
+  type: training
+  start_date: 2018-07-10
+  duration: 4
+  city: Nuremberg
+  state: Germany
+  partner: Netways GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/en/trainings/icinga_trainings/
+- name: Icinga 2 Advanced
+  type: training
+  start_date: 2018-09-18
+  duration: 3
+  city: Nuremberg
+  state: Germany
+  partner: Netways GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/en/trainings/icinga_trainings/
+- name: Icinga 2 Fundamentals
+  type: training
+  start_date: 2018-10-09
+  duration: 4
+  city: Nuremberg
+  state: Germany
+  partner: Netways GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/en/trainings/icinga_trainings/
+- name: Icinga 2 Advanced
+  type: training
+  start_date: 2018-11-20
+  duration: 3
+  city: Nuremberg
+  state: Germany
+  partner: Netways GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/en/trainings/icinga_trainings/

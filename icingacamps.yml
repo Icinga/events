@@ -1,0 +1,15 @@
+---
+- name: Icinga Camp Berlin
+  type: camp
+  start_date: 2018-03-08
+  duration: 1
+  city: Berlin
+  state: Germany
+  registration_link: https://www.icinga.com/events/icinga-camp-berlin/
+- name: Icinga Camp New York
+  type: camp
+  start_date: 2018-03-16
+  duration: 1
+  city: New York
+  state: New York
+  registration_link: https://www.icinga.com/events/icinga-camp-new-york/

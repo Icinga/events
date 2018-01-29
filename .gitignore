@@ -1,0 +1,12 @@
+## MAC OS
+.DS_Store
+
+## editor
+*.tmproj
+tmtags
+*~
+\#*
+.\#*
+*.sw[op]
+tags
+.idea/
