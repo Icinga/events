@@ -10,7 +10,7 @@ List of fields:
 | Field name        | Purpose                               | Required           |
 | ----------------- | ------------------------------------- | ------------------ |
 | name              | Name of event                         | Yes                |
-| start_date        | Start of the event, format YYYY-MM-DD | Yes                |
+| date        | Start of the event, format YYYY-MM-DD | Yes                |
 | duration          | Duration of the event in days         | Yes                |
 | city              | City of the event location            | Yes                |
 | state             | State of the event location           | Yes                |
@@ -31,7 +31,7 @@ Example:
 ``` yaml
 - name: Icinga 2 Advanced
   type: training
-  start_date: 2018-02-06
+  date: 2018-02-06
   duration: 3
   city: Cityname
   state: Statename
@@ -50,7 +50,7 @@ Example:
 ``` yaml
 - name: Icinga Camp Cityname
   type: camp
-  start_date: 2018-03-08
+  date: 2018-03-08
   duration: 1
   city: Cityname
   state: Statename
@@ -66,7 +66,7 @@ Example:
 ``` yaml
 - name: SuperConference
   type: conference
-  start_date: 2018-03-01
+  date: 2018-03-01
   duration: 2
   city: Cityname
   state: Statename
@@ -82,7 +82,7 @@ Example:
 ``` yaml
 - name: Icinga Meetup Cityname
   type: meetup
-  start_date: 2018-03-23
+  date: 2018-03-23
   duration: 1
   city: Cityname
   state: Statename

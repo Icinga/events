@@ -1,7 +1,7 @@
 ---
 - name: Icinga Meetup Zurich
   type: meetup
-  start_date: 2018-03-23
+  date: 2018-03-23
   duration: 1
   city: Zurich
   state: Switzerland
