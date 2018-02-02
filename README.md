@@ -1,5 +1,5 @@
 # Icinga Events
-This repository includes all upcoming,Icinga related events. You are invited to complete the events list if you think
+This repository includes all upcoming Icinga related [events](https://www.icinga.com/events/). You are invited to complete the events list if you think
 something is missing.
 
 Events are split into categories, where the filenames describe the category. Depending on the category a field may be 
