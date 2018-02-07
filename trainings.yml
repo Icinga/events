@@ -73,6 +73,15 @@
   registration_link: https://www.linuxfabrik.ch/schulungen/icinga
 - name: Icinga 2 Fundamentals
   type: training
+  date: 2018-04-10
+  duration: 4
+  city: Hannover
+  state: Germany
+  partner: axxeo GmbH
+  partner_link: https://www.axxeo.de/monitoring.html
+  registration_link: https://www.axxeo.de/schulungen/workshop-icinga-2.html
+- name: Icinga 2 Fundamentals
+  type: training
   date: 2018-04-16
   duration: 4
   city: Nuremberg
