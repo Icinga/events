@@ -6,10 +6,3 @@
   city: Amsterdam
   state: Netherlands
   registration_link: http://grafanacon.org/
-- name: Config Mgmt Camp
-  type: conference
-  date: 2018-02-05
-  duration: 2
-  city: Gent
-  state: Belgium
-  registration_link: http://cfgmgmtcamp.eu/
