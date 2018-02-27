@@ -1,24 +1,6 @@
 ---
 - name: Icinga 2 Fundamentals
   type: training
-  date: 2018-02-15
-  duration: 4
-  city: Zurich
-  state: Switzerland
-  partner: Linuxfabrik
-  partner_link: https://www.linuxfabrik.ch/
-  registration_link: https://www.linuxfabrik.ch/schulungen/icinga
-- name: Icinga 2 Fundamentals
-  type: training
-  date: 2018-02-19
-  duration: 4
-  city: Nuremberg
-  state: Germany
-  partner: AZ IT-Systems & Consulting GmbH
-  partner_link: https://www.az-it.systems/de/leistungen/it-monitoring-loesungen.html
-  registration_link: https://az-it.academy/trainings/icinga2-fundamentals-training.html
-- name: Icinga 2 Fundamentals
-  type: training
   date: 2018-03-13
   duration: 4
   city: Zurich
