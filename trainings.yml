@@ -14,7 +14,7 @@
   duration: 4
   city: Nuremberg
   state: Germany
-  partner: Netways GmbH
+  partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
 - name: Icinga 2 Fundamentals
@@ -30,7 +30,7 @@
   type: training
   date: 2018-04-09
   duration: 4
-  city: Nuremberg
+  city: Obertshausen
   state: Germany
   partner: AZ IT-Systems & Consulting GmbH
   partner_link: https://www.az-it.systems/de/leistungen/it-monitoring-loesungen.html
@@ -57,7 +57,7 @@
   type: training
   date: 2018-04-16
   duration: 4
-  city: Nuremberg
+  city: Obertshausen
   state: Germany
   partner: AZ IT-Systems & Consulting GmbH
   partner_link: https://www.az-it.systems/de/leistungen/it-monitoring-loesungen.html
@@ -104,7 +104,7 @@
   duration: 3
   city: Nuremberg
   state: Germany
-  partner: Netways GmbH
+  partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
 - name: Icinga 2 Fundamentals
@@ -113,7 +113,7 @@
   duration: 4
   city: Nuremberg
   state: Germany
-  partner: Netways GmbH
+  partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
 - name: Icinga 2 Fundamentals
@@ -149,7 +149,7 @@
   duration: 3
   city: Nuremberg
   state: Germany
-  partner: Netways GmbH
+  partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
 - name: Icinga 2 Fundamentals
@@ -167,7 +167,7 @@
   duration: 4
   city: Nuremberg
   state: Germany
-  partner: Netways GmbH
+  partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
 - name: Icinga 2 Advanced
@@ -176,7 +176,7 @@
   duration: 3
   city: Nuremberg
   state: Germany
-  partner: Netways GmbH
+  partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
 - name: Icinga 2 Fundamentals
