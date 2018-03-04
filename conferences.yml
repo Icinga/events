@@ -1,8 +1,8 @@
 ---
-- name: GrafanaCon
+- name: OSMC
   type: conference
-  date: 2018-03-01
+  date: 2018-11-06
   duration: 2
-  city: Amsterdam
-  state: Netherlands
-  registration_link: http://grafanacon.org/
+  city: Nuremberg
+  state: Germany
+  registration_link: http://osmc.de/
