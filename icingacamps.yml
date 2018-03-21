@@ -1,8 +1,1 @@
 ---
-- name: Icinga Camp New York
-  type: camp
-  date: 2018-03-16
-  duration: 1
-  city: New York
-  state: United States
-  registration_link: https://www.icinga.com/events/icinga-camp-new-york/
