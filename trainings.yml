@@ -91,6 +91,15 @@
   registration_link: https://www.linuxfabrik.ch/schulungen/icinga
 - name: Icinga 2 Fundamentals
   type: training
+  date: 2018-06-13
+  duration: 4
+  city: The Hague
+  state: Netherlands
+  partner: OlinData
+  partner_link: https://www.olindata.com/
+  registration_link: https://www.olindata.com/en/training/icinga-2-fundamentals
+- name: Icinga 2 Fundamentals
+  type: training
   date: 2018-06-11
   duration: 4
   city: Zurich
@@ -152,6 +161,15 @@
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
+- name: Icinga 2 Fundamentals
+  type: training
+  date: 2018-09-26
+  duration: 4
+  city: The Hague
+  state: Netherlands
+  partner: OlinData
+  partner_link: https://www.olindata.com/
+  registration_link: https://www.olindata.com/en/training/icinga-2-fundamentals
 - name: Icinga 2 Fundamentals
   type: training
   date: 2018-10-01
