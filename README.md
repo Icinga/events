@@ -7,16 +7,17 @@ required or not.
 
 List of fields:
 
-| Field name        | Purpose                               | Required           |
-| ----------------- | ------------------------------------- | ------------------ |
-| name              | Name of event                         | Yes                |
-| date        | Start of the event, format YYYY-MM-DD | Yes                |
-| duration          | Duration of the event in days         | Yes                |
-| city              | City of the event location            | Yes                |
-| state             | State of the event location           | Yes                |
-| partner           | Partner organizing the event          | Yes, for trainings |
-| partner_link      | Partner website                       | Yes, for trainings |
-| registration_link | Registration website                  | Yes                |
+| Field name        | Purpose                               | Required                 |
+| ----------------- | ------------------------------------- | ------------------------ |
+| name              | Name of event                         | Yes                      |
+| date        | Start of the event, format YYYY-MM-DD | Yes                            |
+| duration          | Duration of the event in days         | Yes                      |
+| city              | City of the event location            | Yes                      |
+| state             | State of the event location           | No                       |
+| country           | Country of the event location         | Yes                      |
+| partner           | Partner organizing the event          | Yes, for trainings       |
+| partner_link      | Partner website                       | Yes, for trainings       |
+| registration_link | Registration website                  | Yes                      |
 
 
 ## Categories
@@ -35,6 +36,7 @@ Example:
   duration: 3
   city: Cityname
   state: Statename
+  country: Countryname
   partner: Partner Inc.
   partner_link: https://www.example.com/
   registration_link: https://www.example.com/en/trainings/icinga_trainings/
@@ -53,7 +55,7 @@ Example:
   date: 2018-03-08
   duration: 1
   city: Cityname
-  state: Statename
+  country: Countryname
   registration_link: https://www.icinga.com/events/icinga-camp-cityname/
 ```
 
@@ -69,7 +71,7 @@ Example:
   date: 2018-03-01
   duration: 2
   city: Cityname
-  state: Statename
+  country: Countryname
   registration_link: http://example.com/
 ```
 
@@ -86,6 +88,7 @@ Example:
   duration: 1
   city: Cityname
   state: Statename
+  country: Countryname
   registration_link: https://www.meetup.com/Icinga-Cityname-Meetup/events/1234567890/
 ```
 
