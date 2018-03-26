@@ -1,8 +1,2 @@
 ---
-- name: Icinga Meetup Zurich
-  type: meetup
-  date: 2018-03-23
-  duration: 1
-  city: Zurich
-  country: Switzerland
-  registration_link: https://www.meetup.com/Icinga-Zurich-Meetup/events/246609329/
+
