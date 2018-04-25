@@ -26,8 +26,8 @@
   city: Hannover
   country: Germany
   partner: axxeo GmbH
-  partner_link: https://www.axxeo.de/monitoring.html
-  registration_link: https://www.axxeo.de/schulungen/workshop-icinga-2.html
+  partner_link: https://www.axxeo.de/leistungen/monitoring/
+  registration_link: https://www.axxeo.de/leistungen/schulungen/workshop-icinga-2/
 - name: Icinga 2 Fundamentals
   type: training
   date: 2018-05-22
