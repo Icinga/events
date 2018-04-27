@@ -76,16 +76,6 @@
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
 - name: Icinga 2 Fundamentals
   type: training
-  date: 2018-07-02
-  duration: 4
-  city: Duesseldorf/Neuss
-  state: North Rhine Westphalia
-  country: Germany
-  partner: Lanworks AG
-  partner_link: https://lanworks.de/de/index.html
-  registration_link: https://lanworks.de/de/kurse/beschreibung.php?strKurs=1377
-- name: Icinga 2 Fundamentals
-  type: training
   date: 2018-07-10
   duration: 4
   city: Nuremberg
