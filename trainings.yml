@@ -1,16 +1,6 @@
 ---
 - name: Icinga 2 Fundamentals
   type: training
-  date: 2018-05-14
-  duration: 4
-  city: Duesseldorf/Neuss
-  state: North Rhine Westphalia
-  country: Germany
-  partner: Lanworks AG
-  partner_link: https://lanworks.de/de/index.html
-  registration_link: https://lanworks.de/de/kurse/beschreibung.php?strKurs=1377
-- name: Icinga 2 Fundamentals
-  type: training
   date: 2018-05-22
   duration: 4
   city: Atlanta
@@ -19,15 +9,6 @@
   partner: Shadow-Soft
   partner_link: https://shadow-soft.com/icinga-partner/
   registration_link: https://shadow-soft.com/event/icinga-training-course/
-- name: Icinga 2 Fundamentals
-  type: training
-  date: 2018-05-15
-  duration: 4
-  city: Hannover
-  country: Germany
-  partner: axxeo GmbH
-  partner_link: https://www.axxeo.de/leistungen/monitoring/
-  registration_link: https://www.axxeo.de/leistungen/schulungen/workshop-icinga-2/
 - name: Icinga 2 Fundamentals
   type: training
   date: 2018-05-22
