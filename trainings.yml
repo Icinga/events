@@ -147,6 +147,15 @@
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
+- name: Icinga 2 Fundamentals
+  type: training
+  date: 2018-10-23
+  duration: 4
+  city: Hannover
+  country: Germany
+  partner: axxeo GmbH
+  partner_link: https://www.axxeo.de/leistungen/monitoring/
+  registration_link: https://www.axxeo.de/leistungen/schulungen/workshop-icinga-2/
 - name: Icinga 2 Advanced
   type: training
   date: 2018-11-20
