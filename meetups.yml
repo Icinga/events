@@ -7,3 +7,10 @@
   country: India
   registration_link: https://nvite.com/IcingaMeetup/qo7xy4
 
+- name: Icinga Meetup Berlin
+  type: meetup
+  date: 2018-06-26
+  duration: 1
+  city: Berlin
+  country: Germany
+  registration_link: https://www.meetup.com/de-DE/Icinga-Users/events/251751849/
