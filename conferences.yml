@@ -6,3 +6,10 @@
   city: Nuremberg
   country: Germany
   registration_link: http://osmc.de/
+- name: Monitorama EU
+  type: conference
+  date: 2018-09-04
+  duration: 2
+  city: Amsterdam
+  country: Netherlands
+  registration_link: http://monitorama.eu/
