@@ -1,4 +1,11 @@
 ---
+- name: Icinga Meetup Germany South West
+  type: meetup
+  date: 2018-07-19
+  duration: 1
+  city: Ludwigsburg
+  country: Germany
+  registration_link: https://www.meetup.com/Icinga-Users-Sudwest/events/252301893/
 - name: Icinga Meetup Jalandhar
   type: meetup
   date: 2018-07-27
