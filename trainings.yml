@@ -36,6 +36,16 @@
   partner: Linuxfabrik
   partner_link: https://www.linuxfabrik.ch/
   registration_link: https://www.linuxfabrik.ch/schulungen/icinga
+  - name: Icinga 2 Fundamentals
+  type: training
+  date: 2018-08-27
+  duration: 4
+  city: Virtual Event Hosted in Atlanta
+  state: GA
+  country: United States
+  partner: Shadow-Soft
+  partner_link: https://shadow-soft.com/icinga-training/
+  registration_link: https://www.eventbrite.com/e/icinga-training-fundamentals-and-advanced-virtual-tickets-47678554841?aff=ShadowSoft
 - name: Icinga 2 Fundamentals
   type: training
   date: 2018-09-03
