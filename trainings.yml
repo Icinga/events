@@ -17,16 +17,6 @@
   partner: Linuxfabrik
   partner_link: https://www.linuxfabrik.ch/
   registration_link: https://www.linuxfabrik.ch/schulungen/icinga
-- name: Icinga 2 Advanced
-  type: training
-  date: 2018-08-06
-  duration: 3
-  city: Duesseldorf/Neuss
-  state: North Rhine Westphalia
-  country: Germany
-  partner: Lanworks AG
-  partner_link: https://lanworks.de/de/index.html
-  registration_link: https://lanworks.de/de/kurse/beschreibung.php?strKurs=1378
 - name: Icinga 2 Fundamentals
   type: training
   date: 2018-08-20
@@ -36,16 +26,6 @@
   partner: Linuxfabrik
   partner_link: https://www.linuxfabrik.ch/
   registration_link: https://www.linuxfabrik.ch/schulungen/icinga
-- name: Icinga 2 Fundamentals
-  type: training
-  date: 2018-09-03
-  duration: 4
-  city: Duesseldorf/Neuss
-  state: North Rhine Westphalia
-  country: Germany
-  partner: Lanworks AG
-  partner_link: https://lanworks.de/de/index.html
-  registration_link: https://lanworks.de/de/kurse/beschreibung.php?strKurs=1377
 - name: Icinga 2 Fundamentals
   type: training
   date: 2018-09-13
