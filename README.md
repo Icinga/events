@@ -21,11 +21,11 @@ List of fields:
 
 
 ## Categories
-A list of examples for each cateogry.
+A list of examples for each category.
 
 ### Trainings
 
-Filenaem: `trainings.yml`
+Filename: `trainings.yml`
 
 Example:
 
