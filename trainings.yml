@@ -1,24 +1,6 @@
 ---
 - name: Icinga 2 Fundamentals
   type: training
-  date: 2018-07-10
-  duration: 4
-  city: Nuremberg
-  country: Germany
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/en/products/icinga/
-  registration_link: https://www.netways.de/en/trainings/icinga_trainings/
-- name: Icinga 2 Fundamentals
-  type: training
-  date: 2018-07-16
-  duration: 4
-  city: Zurich
-  country: Switzerland
-  partner: Linuxfabrik
-  partner_link: https://www.linuxfabrik.ch/
-  registration_link: https://www.linuxfabrik.ch/schulungen/icinga
-- name: Icinga 2 Fundamentals
-  type: training
   date: 2018-08-20
   duration: 4
   city: Zurich
