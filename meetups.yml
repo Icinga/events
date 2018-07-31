@@ -1,11 +1,4 @@
 ---
-- name: Icinga Meetup Jalandhar
-  type: meetup
-  date: 2018-07-27
-  duration: 1
-  city: Jalandhar
-  country: India
-  registration_link: https://nvite.com/IcingaMeetup/qo7xy4
 - name: Icinga Meetup Berlin
   type: meetup
   date: 2018-08-16
