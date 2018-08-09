@@ -5,6 +5,7 @@
   duration: 4
   city: Zurich
   country: Switzerland
+  language: german
   partner: Linuxfabrik
   partner_link: https://www.linuxfabrik.ch/
   registration_link: https://www.linuxfabrik.ch/schulungen/icinga
@@ -15,6 +16,7 @@
   city: Virtual Event Hosted in Atlanta
   state: GA
   country: United States
+  language: english
   partner: Shadow-Soft
   partner_link: https://shadow-soft.com/icinga-training/
   registration_link: https://www.eventbrite.com/e/icinga-training-fundamentals-and-advanced-virtual-tickets-47678554841?aff=ShadowSoft
@@ -24,6 +26,7 @@
   duration: 4
   city: Zurich
   country: Switzerland
+  language: german
   partner: Linuxfabrik
   partner_link: https://www.linuxfabrik.ch/
   registration_link: https://www.linuxfabrik.ch/schulungen/icinga
@@ -33,6 +36,7 @@
   duration: 3
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -42,6 +46,7 @@
   duration: 4
   city: The Hague
   country: Netherlands
+  language: english
   partner: OlinData
   partner_link: https://www.olindata.com/
   registration_link: https://www.olindata.com/en/training/icinga-2-fundamentals
@@ -51,6 +56,7 @@
   duration: 4
   city: Zurich
   country: Switzerland
+  language: german
   partner: Linuxfabrik
   partner_link: https://www.linuxfabrik.ch/
   registration_link: https://www.linuxfabrik.ch/schulungen/icinga
@@ -60,6 +66,7 @@
   duration: 4
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -69,6 +76,7 @@
   duration: 4
   city: Hannover
   country: Germany
+  language: german
   partner: axxeo GmbH
   partner_link: https://www.axxeo.de/leistungen/monitoring/
   registration_link: https://www.axxeo.de/leistungen/schulungen/workshop-icinga-2/
@@ -78,6 +86,7 @@
   duration: 3
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -87,6 +96,7 @@
   duration: 4
   city: Zurich
   country: Switzerland
+  language: german
   partner: Linuxfabrik
   partner_link: https://www.linuxfabrik.ch/
   registration_link: https://www.linuxfabrik.ch/schulungen/icinga
@@ -96,6 +106,7 @@
   duration: 4
   city: Zurich
   country: Switzerland
+  language: german
   partner: Linuxfabrik
   partner_link: https://www.linuxfabrik.ch/
   registration_link: https://www.linuxfabrik.ch/schulungen/icinga
@@ -105,6 +116,7 @@
   duration: 4
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -114,6 +126,7 @@
   duration: 3
   city: Nuremberg
   country: Germany
+  language: english
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -123,6 +136,7 @@
   duration: 2
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -132,6 +146,7 @@
   duration: 4
   city: Nuremberg
   country: Germany
+  language: english
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -141,6 +156,7 @@
   duration: 4
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -150,6 +166,7 @@
   duration: 2
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -159,6 +176,7 @@
   duration: 3
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -168,6 +186,7 @@
   duration: 4
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -177,6 +196,7 @@
   duration: 4
   city: Nuremberg
   country: Germany
+  language: english
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -186,6 +206,7 @@
   duration: 3
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -195,6 +216,7 @@
   duration: 2
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -204,6 +226,7 @@
   duration: 4
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -213,6 +236,7 @@
   duration: 3
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
@@ -222,6 +246,7 @@
   duration: 4
   city: Nuremberg
   country: Germany
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/

@@ -15,6 +15,7 @@ List of fields:
 | city              | City of the event location            | Yes                      |
 | state             | State of the event location           | No                       |
 | country           | Country of the event location         | Yes                      |
+| language          | Language in which a training is held  | Yes, for trainings
 | partner           | Partner organizing the event          | Yes, for trainings       |
 | partner_link      | Partner website                       | Yes, for trainings       |
 | registration_link | Registration website                  | Yes                      |
