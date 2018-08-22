@@ -1,1 +1,8 @@
 ---
+- name: Icinga Camp Tel Aviv
+  type: camp
+  date: 2018-12-17
+  duration: 1
+  city: Tel Aviv
+  country: Israel
+  registration_link: https://www.icinga.com/events/icinga-camp-tel-aviv/
