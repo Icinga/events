@@ -1,1 +1,8 @@
 ---
+- name: Icinga Meetup Salzburg
+  type: meetup
+  date: 2018-10-12
+  duration: 1
+  city: Salzburg
+  country: Austria
+  registration_link: https://www.meetup.com/Icinga-Users-Salzburg/events/253653648/
