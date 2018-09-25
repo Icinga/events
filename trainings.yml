@@ -1,14 +1,4 @@
 ---
-- name: Icinga 2 Advanced
-  type: training
-  date: 2018-09-18
-  duration: 3
-  city: Nuremberg
-  country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/en/products/icinga/
-  registration_link: https://www.netways.de/en/trainings/icinga_trainings/
 - name: Icinga 2 Fundamentals
   type: training
   date: 2018-09-25
