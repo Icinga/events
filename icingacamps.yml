@@ -5,11 +5,11 @@
   duration: 1
   city: Tel Aviv
   country: Israel
-  registration_link: https://www.icinga.com/events/icinga-camp-tel-aviv/
+  registration_link: https://icinga.com/events/icinga-camp-tel-aviv/
 - name: Icinga Camp Berlin
   type: camp
   date: 2019-03-14
   duration: 1
   city: Berlin
   country: Germany
-  registration_link: https://www.icinga.com/events/icinga-camp-berlin/
+  registration_link: https://icinga.com/events/icinga-camp-berlin/
