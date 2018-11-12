@@ -1,8 +1,1 @@
 ---
-- name: OSMC
-  type: conference
-  date: 2018-11-06
-  duration: 2
-  city: Nuremberg
-  country: Germany
-  registration_link: http://osmc.de/
