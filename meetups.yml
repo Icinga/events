@@ -1,1 +1,15 @@
 ---
+- name: Icinga Meetup Salzburg
+  type: meetup
+  date: 2018-11-30
+  duration: 1
+  city: Salzburg
+  country: Austria
+  registration_link: https://www.meetup.com/Icinga-Users-Salzburg/events/255739939/
+- name: Icinga Meetup Berlin
+  type: meetup
+  date: 2018-12-03
+  duration: 1
+  city: Berlin
+  country: Germany
+  registration_link: https://www.meetup.com/Icinga-Users/events/256306287/
