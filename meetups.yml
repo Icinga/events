@@ -1,11 +1,4 @@
 ---
-- name: Icinga Meetup Berlin
-  type: meetup
-  date: 2019-01-24
-  duration: 1
-  city: Berlin
-  country: Germany
-  registration_link: https://www.meetup.com/Icinga-Users/events/257742235/
 - name: Icinga Meetup Salzburg
   type: meetup
   date: 2019-02-01
