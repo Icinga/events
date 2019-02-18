@@ -1,14 +1,4 @@
 ---
-- name: Icinga 2 Advanced
-  type: training
-  date: 2019-02-05
-  duration: 3
-  city: Nuremberg
-  country: Germany
-  language: english
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/en/products/icinga/
-  registration_link: https://www.netways.de/en/trainings/icinga_trainings/
 - name: Icinga with Puppet Workshop
   type: training
   date: 2019-02-26
@@ -35,7 +25,7 @@
   duration: 4
   city: Nuremberg
   country: Germany
-  language: english
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
