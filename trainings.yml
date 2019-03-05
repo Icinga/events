@@ -1,14 +1,4 @@
 ---
-- name: Icinga with Puppet Workshop
-  type: training
-  date: 2019-02-26
-  duration: 2
-  city: Nuremberg
-  country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/en/products/icinga/
-  registration_link: https://www.netways.de/en/trainings/icinga_trainings/
 - name: Icinga 2 Fundamentals
   type: training
   date: 2019-03-19
@@ -59,6 +49,16 @@
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga_trainings/
+- name: Icinga 2 Fundamentals
+  type: training
+  date: 2019-05-21
+  duration: 4
+  city: Koethen
+  country: Germany
+  language: english
+  partner: DEXOR S&M GmbH
+  partner_link: https://dexor.de/monitoring/
+  registration_link: https://dexor.de/icinga2-fudamentals-training/
 - name: Icinga 2 Advanced
   type: training
   date: 2019-06-04
