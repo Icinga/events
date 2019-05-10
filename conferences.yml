@@ -1,9 +1,2 @@
 ---
-- name: GrafanaCon US
-  type: conference
-  date: 2019-02-25
-  duration: 2
-  city: Los Angeles
-  state: California
-  country: USA
-  registration_link: https://www.grafanacon.org/
+

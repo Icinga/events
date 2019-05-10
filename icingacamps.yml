@@ -1,27 +1,11 @@
 ---
-- name: Icinga Camp Berlin
+- name: Icinga Camp Stockholm
   type: camp
-  date: 2019-03-14
+  date: 2019-09-03
   duration: 1
-  city: Berlin
-  country: Germany
-  registration_link: https://icinga.com/events/icinga-camp-berlin/
-- name: Icinga Camp Atlanta
-  type: camp
-  date: 2019-05-16
-  duration: 1
-  city: Atlanta
-  state: Georgia
-  country: USA
-  registration_link: https://icinga.com/events/icinga-camp-atlanta/
-- name: Icinga Camp Seattle
-  type: camp
-  date: 2019-05-20
-  duration: 1
-  city: Seattle
-  state: Washington
-  country: USA
-  registration_link: https://icinga.com/events/icinga-camp-seattle/
+  city: Stockholm
+  country: Sweden
+  registration_link: https://icinga.com/events/icinga-camp-stockholm/
 - name: Icinga Camp Milan
   type: camp
   date: 2019-09-26
