@@ -1,1 +1,8 @@
 ---
+- name: Icinga Meetup NL
+  type: meetup
+  date: 2019-06-12
+  duration: 1
+  city: Den Haag
+  country: The Netherlands
+  registration_link: https://www.meetup.com/NL-Icinga-Users-Meetup-Group/events/261281444/
