@@ -1,4 +1,11 @@
 ---
+- name: RootConf
+  type: conference
+  date: 2019-06-21
+  duration: 2
+  city: Bangalore
+  country: India
+  registration_link: https://rootconf.in/
 - name: OSMC
   type: conference
   date: 2019-11-05
