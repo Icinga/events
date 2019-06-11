@@ -1,7 +1,7 @@
 ---
 - name: OSMC
   type: conference
-  date: 2019-11-04
+  date: 2019-11-05
   duration: 2
   city: Nuremberg
   country: Germany
