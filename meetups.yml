@@ -1,5 +1,5 @@
 ---
-- name: Icinga Meetup Bangalore
+- name: Icinga Meetup
   type: meetup
   date: 2019-06-19
   duration: 1
