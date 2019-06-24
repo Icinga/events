@@ -1,8 +1,1 @@
 ---
-- name: Icinga Meetup
-  type: meetup
-  date: 2019-06-19
-  duration: 1
-  city: Bangalore
-  country: India
-  registration_link: https://hasgeek.com/rootconf/icinga-meetup/
