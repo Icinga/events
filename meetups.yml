@@ -1,1 +1,8 @@
 ---
+- name: Icinga Meetup
+  type: meetup
+  date: 2019-08-22
+  duration: 1
+  city: Linz
+  country: Austria
+  registration_link: https://www.meetup.com/Icinga-Users-Austria/events/262669018/
