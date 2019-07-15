@@ -1,6 +1,13 @@
 ---
 - name: Icinga Meetup
   type: meetup
+  date: 2019-08-05
+  duration: 1
+  city: Berlin
+  country: Germany
+  registration_link: https://www.meetup.com/Icinga-Users/events/263160515/
+- name: Icinga Meetup
+  type: meetup
   date: 2019-08-22
   duration: 1
   city: Linz
