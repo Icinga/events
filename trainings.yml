@@ -1,16 +1,6 @@
 ---
 - name: Icinga 2 Fundamentals
   type: training
-  date: 2019-09-10
-  duration: 4
-  city: Nuremberg
-  country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/en/products/icinga/
-  registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
-- name: Icinga 2 Fundamentals
-  type: training
   date: 2019-09-16
   duration: 4
   city: Zurich
@@ -69,6 +59,16 @@
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
+- name: Icinga Director Workshop
+  type: training
+  date: 2019-11-12
+  duration: 2
+  city: Nuremberg
+  country: Germany
+  language: german
+  partner: NETWAYS GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/trainings/icinga-director-workshop/
 - name: Icinga 2 Advanced
   type: training
   date: 2019-11-26
@@ -102,6 +102,106 @@
 - name: Icinga Module Development
   type: training
   date: 2019-12-19
+  duration: 2
+  city: Nuremberg
+  country: Germany
+  language: german
+  partner: NETWAYS GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/trainings/icinga-web-module-development/
+- name: Icinga with Puppet Workshop
+  type: training
+  date: 2020-01-08
+  duration: 2
+  city: Nuremberg
+  country: Germany
+  language: german
+  partner: NETWAYS GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/trainings/icinga-2-und-puppet-workshop/
+- name: Icinga Module Development
+  type: training
+  date: 2020-02-04
+  duration: 2
+  city: Nuremberg
+  country: Germany
+  language: german
+  partner: NETWAYS GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/trainings/icinga-web-module-development/
+- name: Icinga Director Workshop
+  type: training
+  date: 2019-03-04
+  duration: 2
+  city: Nuremberg
+  country: Germany
+  language: german
+  partner: NETWAYS GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/trainings/icinga-director-workshop/
+- name: Icinga Module Development
+  type: training
+  date: 2020-04-02
+  duration: 2
+  city: Nuremberg
+  country: Germany
+  language: german
+  partner: NETWAYS GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/trainings/icinga-web-module-development/
+- name: Icinga Essentials Workshop
+  type: training
+  date: 2020-05-12
+  duration: 1
+  city: Amsterdam
+  country: Netherlands
+  language: english
+  partner: Icinga GmbH
+  partner_link: https://icingaconf.com/workshops/
+  registration_link: https://icingaconf.com/
+- name: Icinga Director Workshop
+  type: training
+  date: 2020-05-12
+  duration: 1
+  city: Amsterdam
+  country: Netherlands
+  language: english
+  partner: Icinga GmbH
+  partner_link: https://icingaconf.com/workshops/
+  registration_link: https://icingaconf.com/
+- name: Icinga Director Workshop
+  type: training
+  date: 2020-06-23
+  duration: 2
+  city: Nuremberg
+  country: Germany
+  language: german
+  partner: NETWAYS GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/trainings/icinga-director-workshop/
+- name: Icinga with Puppet Workshop
+  type: training
+  date: 2020-09-22
+  duration: 2
+  city: Nuremberg
+  country: Germany
+  language: german
+  partner: NETWAYS GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/trainings/icinga-2-und-puppet-workshop/
+- name: Icinga Director Workshop
+  type: training
+  date: 2020-10-20
+  duration: 2
+  city: Nuremberg
+  country: Germany
+  language: german
+  partner: NETWAYS GmbH
+  partner_link: https://www.netways.de/en/products/icinga/
+  registration_link: https://www.netways.de/trainings/icinga-director-workshop/
+- name: Icinga Module Development
+  type: training
+  date: 2020-12-08
   duration: 2
   city: Nuremberg
   country: Germany
