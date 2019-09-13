@@ -1,11 +1,4 @@
 ---
-- name: Icinga Camp Stockholm
-  type: camp
-  date: 2019-09-03
-  duration: 1
-  city: Stockholm
-  country: Sweden
-  registration_link: https://icinga.com/events/icinga-camp-stockholm/
 - name: Icinga Camp Milan
   type: camp
   date: 2019-09-26
