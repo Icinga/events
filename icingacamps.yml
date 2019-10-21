@@ -1,11 +1,4 @@
 ---
-- name: Icinga Camp Milan
-  type: camp
-  date: 2019-09-26
-  duration: 1
-  city: Milan
-  country: Italy
-  registration_link: https://icinga.com/events/icinga-camp-milan/
 - name: Icinga Camp Zurich
   type: camp
   date: 2019-11-12
