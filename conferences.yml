@@ -1,11 +1,4 @@
 ---
-- name: OSMC
-  type: conference
-  date: 2019-11-05
-  duration: 2
-  city: Nuremberg
-  country: Germany
-  registration_link: https://osmc.de/
 - name: IcingaConf 2020
   type: conference
   date: 2020-05-13
