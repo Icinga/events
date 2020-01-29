@@ -165,7 +165,7 @@
   duration: 3
   city: Nuremberg
   country: Germany
-  language: english
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/trainings/icinga-advanced/
@@ -235,7 +235,7 @@
   duration: 4
   city: Nuremberg
   country: Germany
-  language: english
+  language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
