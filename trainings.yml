@@ -131,7 +131,7 @@
   registration_link: https://www.netways.de/trainings/icinga-web-module-development/
 - name: Icinga Essentials Workshop
   type: training
-  date: 2020-05-12
+  date: 2020-06-23
   duration: 1
   city: Amsterdam
   country: Netherlands
@@ -141,7 +141,7 @@
   registration_link: https://icingaconf.com/
 - name: Icinga Director Workshop
   type: training
-  date: 2020-05-12
+  date: 2020-06-23
   duration: 1
   city: Amsterdam
   country: Netherlands
