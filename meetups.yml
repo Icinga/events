@@ -1,9 +1,2 @@
 ---
-- name: Icinga Meetup Berlin
-  type: meetup
-  date: 2020-03-12
-  duration: 1
-  city: Berlin
-  state: Berlin
-  country: Germany
-  registration_link: https://www.meetup.com/de-DE/Icinga-Users/events/268977911/
+
