@@ -1,8 +1,2 @@
 ---
-- name: IcingaConf 2020
-  type: conference
-  date: 2020-06-24
-  duration: 2
-  city: Amsterdam
-  country: Netherlands
-  registration_link: https://icingaconf.com/
+
