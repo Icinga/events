@@ -1,34 +1,14 @@
 ---
-- name: Icinga Module Development
+- name: Icinga Fundamentals + Director (Virtual Class)
   type: training
-  date: 2020-04-01
-  duration: 2
-  city: Nuremberg
-  country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/en/products/icinga/
-  registration_link: https://www.netways.de/trainings/icinga-web-module-development/
-- name: Icinga Essentials Workshop
-  type: training
-  date: 2020-06-23
-  duration: 1
-  city: Amsterdam
-  country: Netherlands
+  date: 2020-05-25
+  duration: 4
+  city: Atlanta
+  country: USA
   language: english
-  partner: Icinga GmbH
-  partner_link: https://icingaconf.com/workshops/
-  registration_link: https://icingaconf.com/
-- name: Icinga Director Workshop
-  type: training
-  date: 2020-06-23
-  duration: 1
-  city: Amsterdam
-  country: Netherlands
-  language: english
-  partner: Icinga GmbH
-  partner_link: https://icingaconf.com/workshops/
-  registration_link: https://icingaconf.com/
+  partner: Shadow-Soft
+  partner_link: https://shadow-soft.com/monitoring/
+  registration_link: https://shadow-soft.com/icinga-training-virtual/
 - name: Icinga Director Workshop
   type: training
   date: 2020-06-23
