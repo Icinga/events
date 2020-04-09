@@ -9,11 +9,11 @@
   partner: Shadow-Soft
   partner_link: https://shadow-soft.com/monitoring/
   registration_link: https://shadow-soft.com/icinga-training-virtual/
-- name: Icinga 2 Fundamentals | Online Class
+- name: Icinga 2 Fundamentals
   type: training
   date: 2020-05-26
   duration: 4
-  city: Nuremberg
+  city: Online Class
   country: Germany
   language: german
   partner: NETWAYS GmbH
@@ -29,21 +29,21 @@
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/trainings/icinga-director-workshop/
-- name: Icinga 2 Fundamentals | Online Class
+- name: Icinga 2 Fundamentals
   type: training
   date: 2020-07-07
   duration: 4
-  city: Nuremberg
+  city: Online Class
   country: Germany
   language: german
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
-- name: Icinga 2 Advanced | Online Class
+- name: Icinga 2 Advanced
   type: training
   date: 2020-07-21
   duration: 3
-  city: Nuremberg
+  city: Online Class
   country: Germany
   language: german
   partner: NETWAYS GmbH
