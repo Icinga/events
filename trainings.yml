@@ -1,14 +1,4 @@
 ---
-- name: Icinga Fundamentals + Director (Virtual Class)
-  type: training
-  date: 2020-05-25
-  duration: 4
-  city: Atlanta
-  country: USA
-  language: english
-  partner: Shadow-Soft
-  partner_link: https://shadow-soft.com/monitoring/
-  registration_link: https://shadow-soft.com/icinga-training-virtual/
 - name: Icinga 2 Fundamentals
   type: training
   date: 2020-05-26
