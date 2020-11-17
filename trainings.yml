@@ -19,16 +19,6 @@
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/en/products/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
-- name: Icinga Module Development
-  type: training
-  date: 2020-12-08
-  duration: 2
-  city: Nuremberg
-  country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/en/products/icinga/
-  registration_link: https://www.netways.de/trainings/icinga-web-module-development/
 - name: Icinga 2 Advanced
   type: training
   date: 2020-12-08
