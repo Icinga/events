@@ -1,36 +1,6 @@
 ---
 - name: Icinga 2 Fundamentals
   type: training
-  date: 2020-11-26
-  duration: 4
-  city: Online Class
-  country: Germany
-  language: english
-  partner: Dexor S&M GmbH
-  partner_link: https://dexor.de/monitoring/
-  registration_link: https://dexor.de/icinga2-fundamentals-training-online/
-- name: Icinga 2 Fundamentals
-  type: training
-  date: 2020-12-01
-  duration: 4
-  city: Online Class
-  country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/en/products/icinga/
-  registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
-- name: Icinga 2 Advanced
-  type: training
-  date: 2020-12-08
-  duration: 3
-  city: Online Class
-  country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/en/products/icinga/
-  registration_link: https://www.netways.de/trainings/icinga-advanced/
-- name: Icinga 2 Fundamentals
-  type: training
   date: 2020-12-14
   duration: 4
   city: Köthen
@@ -95,7 +65,7 @@
   duration: 3
   city: Online Class
   country: Germany
-  language: german
+  language: english
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/monitoring/icinga/
   registration_link: https://www.netways.de/trainings/icinga-advanced/
