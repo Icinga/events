@@ -1,26 +1,6 @@
 ---
 - name: Icinga 2 Fundamentals
   type: training
-  date: 2021-03-02
-  duration: 4
-  city: Online Class
-  country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/monitoring/icinga/
-  registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
-- name: Icinga 2 Fundamentals
-  type: training
-  date: 2021-05-18
-  duration: 4
-  city: Online Class
-  country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/monitoring/icinga/
-  registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
-- name: Icinga 2 Fundamentals
-  type: training
   date: 2021-07-27
   duration: 4
   city: Online Class
@@ -49,16 +29,6 @@
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/monitoring/icinga/
   registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
-- name: Icinga 2 Advanced
-  type: training
-  date: 2021-04-20
-  duration: 3
-  city: Online Class
-  country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/monitoring/icinga/
-  registration_link: https://www.netways.de/trainings/icinga-advanced/
 - name: Icinga 2 Advanced
   type: training
   date: 2021-07-06
