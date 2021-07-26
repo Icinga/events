@@ -21,16 +21,6 @@
   registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
 - name: Icinga 2 Advanced
   type: training
-  date: 2021-07-06
-  duration: 3
-  city: Online Class
-  country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/monitoring/icinga/
-  registration_link: https://www.netways.de/trainings/icinga-advanced/
-- name: Icinga 2 Advanced
-  type: training
   date: 2021-11-30
   duration: 3
   city: Nuremberg
