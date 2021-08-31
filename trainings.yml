@@ -11,14 +11,24 @@
   registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
 - name: Icinga 2 Fundamentals
   type: training
-  date: 2021-12-14
+  date: 2021-09-28
   duration: 4
   city: Online Class
   country: Germany
-  language: german
-  partner: NETWAYS GmbH
-  partner_link: https://www.netways.de/monitoring/icinga/
-  registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
+  language: english
+  partner: Dexor GmbH
+  partner_link: https://dexor.de/de/monitoring/
+  registration_link: https://dexor.de/en/blog/icinga2-fundamentals-online-training-28-09-01-10-register-now/
+- name: Icinga 2 Advanced
+  type: training
+  date: 2021-11-30
+  duration: 3
+  city: Online Class
+  country: Germany
+  language: english
+  partner: Dexor GmbH
+  partner_link: https://dexor.de/de/monitoring/
+  registration_link: https://dexor.de/en/blog/icinga2-advanced-online-training-11-13-oct-2021-register-now/
 - name: Icinga 2 Advanced
   type: training
   date: 2021-11-30
@@ -39,3 +49,14 @@
   partner: NETWAYS GmbH
   partner_link: https://www.netways.de/monitoring/icinga/
   registration_link: https://www.netways.de/trainings/icinga-director-workshop/
+- name: Icinga 2 Fundamentals
+  type: training
+  date: 2021-12-14
+  duration: 4
+  city: Online Class
+  country: Germany
+  language: german
+  partner: NETWAYS GmbH
+  partner_link: https://www.netways.de/monitoring/icinga/
+  registration_link: https://www.netways.de/en/trainings/icinga-fundamentals/
+
