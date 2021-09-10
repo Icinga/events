@@ -3,7 +3,7 @@
   type: training
   date: 2021-09-21
   duration: 4
-  city: Nuremberg
+  city: Online Class
   country: Germany
   language: german
   partner: NETWAYS GmbH
@@ -51,7 +51,7 @@
   registration_link: https://www.netways.de/trainings/icinga-director-workshop/
 - name: Icinga 2 Fundamentals
   type: training
-  date: 2021-12-14
+  date: 2021-12-07
   duration: 4
   city: Online Class
   country: Germany
