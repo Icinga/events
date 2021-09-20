@@ -17,7 +17,7 @@
   country: Germany
   language: english
   partner: Dexor GmbH
-  partner_link: https://dexor.de/de/monitoring/
+  partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
   registration_link: https://dexor.de/en/blog/icinga2-fundamentals-online-training-28-09-01-10-register-now/
 - name: Icinga 2 Advanced
   type: training
@@ -27,7 +27,7 @@
   country: Germany
   language: english
   partner: Dexor GmbH
-  partner_link: https://dexor.de/de/monitoring/
+  partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
   registration_link: https://dexor.de/en/blog/icinga2-advanced-online-training-11-13-oct-2021-register-now/
 - name: Icinga 2 Advanced
   type: training
