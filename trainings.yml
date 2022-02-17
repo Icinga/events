@@ -18,7 +18,7 @@
   language: english
   partner: Dexor GmbH
   partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
-  registration_link: https://dexor.de/en/icinga2-training-registration-form/
+  registration_link: https://dexor.de/en/monitoring/icinga2-training-schedule/
 - name: Icinga 2 Advanced
   type: training
   date: 2022-02-21
@@ -28,7 +28,7 @@
   language: english
   partner: Dexor GmbH
   partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
-  registration_link: https://dexor.de/en/icinga2-training-registration-form/
+  registration_link: https://dexor.de/en/monitoring/icinga2-training-schedule/
 - name: Icinga 2 Fundamentals
   type: training
   date: 2022-03-22
@@ -58,7 +58,7 @@
   language: english
   partner: Dexor GmbH
   partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
-  registration_link: https://dexor.de/en/icinga2-training-registration-form/
+  registration_link: https://dexor.de/en/monitoring/icinga2-training-schedule/
 - name: Icinga 2 Advanced
   type: training
   date: 2022-05-16
@@ -68,7 +68,7 @@
   language: english
   partner: Dexor GmbH
   partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
-  registration_link: https://dexor.de/en/icinga2-training-registration-form/
+  registration_link: https://dexor.de/en/monitoring/icinga2-training-schedule/
 - name: Icinga 2 Fundamentals
   type: training
   date: 2022-06-28
@@ -98,7 +98,7 @@
   language: english
   partner: Dexor GmbH
   partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
-  registration_link: https://dexor.de/en/icinga2-training-registration-form/
+  registration_link: https://dexor.de/en/monitoring/icinga2-training-schedule/
 - name: Icinga 2 Advanced
   type: training
   date: 2022-09-19
@@ -108,7 +108,7 @@
   language: english
   partner: Dexor GmbH
   partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
-  registration_link: https://dexor.de/en/icinga2-training-registration-form/
+  registration_link: https://dexor.de/en/monitoring/icinga2-training-schedule/
 - name: Icinga 2 Advanced
   type: training
   date: 2022-09-27
@@ -138,7 +138,7 @@
   language: english
   partner: Dexor GmbH
   partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
-  registration_link: https://dexor.de/en/icinga2-training-registration-form/
+  registration_link: https://dexor.de/en/monitoring/icinga2-training-schedule/
 - name: Icinga 2 Advanced
   type: training
   date: 2022-11-28
@@ -148,7 +148,7 @@
   language: english
   partner: Dexor GmbH
   partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
-  registration_link: https://dexor.de/en/icinga2-training-registration-form/
+  registration_link: https://dexor.de/en/monitoring/icinga2-training-schedule/
 - name: Icinga 2 Advanced
   type: training
   date: 2022-12-06
