@@ -1,36 +1,6 @@
 ---
 - name: Icinga 2 Fundamentals
   type: training
-  date: 2022-01-25
-  duration: 4
-  city: Online Class
-  country: Germany
-  language: german
-  partner: Netways GmbH
-  partner_link: https://www.netways.de/en/trainings/icinga-fundamentals/
-  registration_link: https://tickets.netways.de/NES/icinga2-Fund/
-- name: Icinga 2 Fundamentals
-  type: training
-  date: 2022-02-08
-  duration: 4
-  city: Online Class
-  country: Germany
-  language: english
-  partner: Dexor GmbH
-  partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
-  registration_link: https://dexor.de/en/monitoring/icinga2-training-schedule/
-- name: Icinga 2 Advanced
-  type: training
-  date: 2022-02-21
-  duration: 3
-  city: Online Class
-  country: Germany
-  language: english
-  partner: Dexor GmbH
-  partner_link: https://dexor.de/en/icinga2-for-monitoring-of-the-infrastructure/
-  registration_link: https://dexor.de/en/monitoring/icinga2-training-schedule/
-- name: Icinga 2 Fundamentals
-  type: training
   date: 2022-03-22
   duration: 4
   city: Online Class
