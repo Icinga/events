@@ -51,7 +51,7 @@
   registration_link: https://tickets.netways.de/NES/icinga2-Fund/
 - name: Icinga 2 Fundamentals
   type: training
-  date: 2022-11-15
+  date: 2022-11-01
   duration: 4
   city: Online Class
   country: Germany
@@ -61,7 +61,7 @@
   registration_link: https://dexor.de/en/monitoring/icinga2-training-schedule/
 - name: Icinga 2 Advanced
   type: training
-  date: 2022-11-28
+  date: 2022-11-14
   duration: 3
   city: Online Class
   country: Germany
